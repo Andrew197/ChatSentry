@@ -1,0 +1,73 @@
+ChatSentry Documentation and Help
+
+-------------------------------------------------------------------------------
+Installing
+-------------------------------------------------------------------------------
+To install the script, refer to the included "How to Install" guide.
+
+-------------------------------------------------------------------------------
+Uninstalling
+-------------------------------------------------------------------------------
+There are two ways of uninstalling the script:
+
+-Using the uninstall function of the GUI menu. This is the preferred method,
+as it ensures that all variables and data stored by the addon are completely deleted.
+
+-using this command: /unload -rs addons/alerts.mrc
+
+----------------------------------------------
+Events Editor
+----------------------------------------------
+
+You can change your settings by right-clicking in a channel or PM window,
+and selecting Alerts from the menu.
+
+Each Alert Event can be individually configured. 
+
+There are two sound settings available for each event's (BEEPS) field:
+-Enter a number into the box to use beeps. the system will beep that many times when triggered.
+-Use the Wav File button, and assign a wav file to play when the event is triggered. The path to the file will be displayed in the beeps box.
+
+Its a good idea to test your work once you finish setting it up, to ensure that it is configured properly.  
+
+To disable an alert entirely, uncheck "flash" and set "beeps" to 0.
+
+-------------------------------------------------------------------------------
+Word Alerts
+-------------------------------------------------------------------------------
+
+You can choose up to 12 words to set off an alarm just like any other event. When someone in a channel says the word you specify, 
+
+
+-------------------------------------------------------------------------------
+The /alt Master Command
+-------------------------------------------------------------------------------
+/alt is an intelligent alias that can be used to change several settings with a single command.
+
+Usage: /alt <parameter>
+
+Examples:
+
+/alt on		Enables Alerts
+/alt off		Disables Alerts
+/alt wordson	Enables Alert Words
+/alt wordsoff	Disables Alert Words
+/alt uninstall	Uninstalls the script, with no confirm.
+/alt default		Reverts to default settings, with no confirm.
+/alt menuoff	turns off all right-click menus (transparent operation)
+/alt menuon	turns right-click menus back on.
+
+
+-------------------------------------------------------------------------------
+Troubleshooting
+-------------------------------------------------------------------------------
+If your alerts won't sound, you need to enter a number (1, 2, 3, etc) into the event's beep field, or a valid filename.
+
+If you still have trouble with the script, try resetting it to default with either "/alt default" or the default settings button on the menu.
+
+
+-------------------------------------------------------------------------------
+Credits
+-------------------------------------------------------------------------------
+Addon: Andrew Pinion
+Testing: Jim Knoll

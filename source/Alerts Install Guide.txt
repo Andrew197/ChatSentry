@@ -1,0 +1,24 @@
+----------------------------------------------
+ChatSentry Install Guide
+----------------------------------------------
+
+1) Run Chatsentry.exe, and extract all files to your main mirc folder
+(usually C:/program files/mIRC.
+
+2)Launch mIRC and join a channel.
+
+3) enter the following command in the text bar:
+
+/load -rs addons/alerts.mrc, and select "Run initialization commands". this is important.
+
+and alerts will be installed into mIRC with default settings.
+
+----------------------------------------------
+Changing settings
+----------------------------------------------
+To change a setting, right click in a channel or PM window and select Alerts.
+
+----------------------------------------------
+Need help?
+----------------------------------------------
+Refer to the "alertshelp.txt" file included, or the "help" button in the Alerts Menu.
