@@ -3,9 +3,8 @@
 'By Andrew Pinion
 ;Version 1.0 (3-26-09)
 ;This program is the sucessor to JoinAlert.
-;Visit http://megalith.us/ for updates and online documentation.
+;Visit http://github.com/andrew197 for updates and online documentation.
 ;-----------------------------------------------------------------------------------
-
 
 ;--------------------------------------------------------------
 ;Initialization commands and Default Settings
@@ -103,12 +102,9 @@ alias ja.uninstall {
   /unload -rs Alerts.mrc
 }
 
-
 ;--------------------------------------------
 ;Version Information
 ;--------------------------------------------
-
-
 
 ;-----------------------------------
 ;the /CTCP <nick> ALERT trigger.
