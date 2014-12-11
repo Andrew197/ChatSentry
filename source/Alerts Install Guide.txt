@@ -1,3 +1,8 @@
+NOTICE: THIS GUIDE IS INTENDED FOR MIRC VERSION 6, AND MAY NOT APPLY FOR NEWER VERSIONS
+TO INSTALL ON NEWER VERSIONS, COPY ALL FILES IN THE SOURCE DIRECTORY INTO YOUR SCRIPTS FOLDER
+IN APPLICATION DATA.
+
+
 ----------------------------------------------
 ChatSentry Install Guide
 ----------------------------------------------
