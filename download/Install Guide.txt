@@ -1,3 +1,6 @@
+***NOTICE: THIS INSTALL PROCESS MAY NOT WORK ON VERSIONS OF MIRC PAST v6.
+YOU WILL LIKELY NEED TO MANUALLY MOVE THE FILES INTO YOUR APPLICATION DATA FOLDER***
+
 ----------------------------------------------
 ChatSentry Install Guide
 ----------------------------------------------
