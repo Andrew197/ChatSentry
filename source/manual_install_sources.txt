@@ -1,2 +1,9 @@
+mIRC 6:
 all of the files in this sources directory
 MUST be placed in c:/program files/mirc/addons.
+
+newer versions:
+all of the files in this sources directory
+MUST be placed your application data / mirc / addons directory. If the 'addons' folder does not exist, create it and copy all of the files there.
+
+I will publish a better install process when I can.
